@@ -10,4 +10,12 @@ This FastAPI server consists of four containers
 
 ![architecture](https://raw.githubusercontent.com/kzgitdev/python-fastapi-streamlit-mariadb/main/architecture.png)
 
+## development environment
+OS: Windows 10 Professional 64bit  
+Sub OS: WSL2(Windows subsystem on Linux2)  
+
+Docker Desktop: v4.10.1  
+Docker version 20.10.17, build 100c701  
+Docker Compose version v2.6.1  
+
 
