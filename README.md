@@ -21,7 +21,7 @@ Docker Compose version v2.6.1
 ## usage
 1. **.env**  
 .env file is set to use variable of docker-compose.yaml and Dockerfile if you need.
-2. nginx configuration
+2. nginx configuration  
 build/nginx/templates/default-80-fastapi.conf.template file is to be default.conf in nginc container. 
 3. requirements.txt at frontend streamlit  
 build/streamlit/requirements.txt file contains list of packages. if you need, add / remove it
