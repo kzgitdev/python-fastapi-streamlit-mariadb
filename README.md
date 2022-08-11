@@ -18,4 +18,8 @@ Docker Desktop: v4.10.1
 Docker version 20.10.17, build 100c701  
 Docker Compose version v2.6.1  
 
+## usage
+1. **.env**  
+.env file is set to use variable of docker-compose.yaml and Dockerfile if you need.
+2. nginx configuration
 
