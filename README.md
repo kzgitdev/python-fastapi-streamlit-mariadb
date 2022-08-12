@@ -28,5 +28,5 @@ build/streamlit/requirements.txt file contains list of packages. if you need, ad
 4. requirements.txt at backend fastapi  
 build/app/requirements.txt file contains list of packages. if you need, add / remove it
 
-## notes:
-You need a construted reverse proxy server in docker container like a jwilder/nginx-proxy:latest docker image.
+## notes
+You need a constructed reverse proxy server in docker container like a jwilder/nginx-proxy:latest docker image.
