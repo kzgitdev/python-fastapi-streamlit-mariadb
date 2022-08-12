@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+mysql-connector-python
+requests
+streamlit
+pandas
+pillow
+numpy
