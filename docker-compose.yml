@@ -64,7 +64,7 @@ services:
       - /etc/localtime:/etc/localtime:ro
       - ./build/db/my.cnf:/etc/mysql/my.cnf
       - ./build/db/50-server.cnf:/etc/mysql/mariadb.conf.d/50-server.cnf
-      - ./build/db/actress.sql:/docker-entrypoint-initdb.d/actress.sql
+      - ./build/db/actress.sql:/docker-entrypoint-initdb.d/user.sql
       - ./db:/var/lib/mysql
     ports:
       - '3306:3306'
